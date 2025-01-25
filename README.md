@@ -16,4 +16,4 @@ Repositório para desenvolvimento do TCC
 - **Envio de E-mails:** PHPMailer
 - **Alertas e Feedbacks:** SweetAlert2
 - **Testes:** SimpleTest
-- **Relatórios e Gráficos:** JsPDF, ApexCharts
+- **criação e geração de arquivos, e Gráficos:** JsPDF, ApexCharts
