@@ -17,3 +17,7 @@ Repositório para desenvolvimento do TCC
 - **Alertas e Feedbacks:** SweetAlert2
 - **Testes:** SimpleTest
 - **Geração de arquivos e Gráficos:** JsPDF, ApexCharts
+
+
+#Documentação do Projeto:
+[TCC FINAL.docx](https://github.com/user-attachments/files/19033683/TCC.FINAL.docx)
